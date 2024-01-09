@@ -1,7 +1,7 @@
 .backups/
-ChineseTourism.aprx
-ChineseTourism.atbx 
-ChineseTourism.sam
+ChineseTourismMaps.aprx
+Default.atbx
 GpMessages/
 ImportLog/
 Index/
+Default.gdb
